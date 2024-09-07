@@ -7,3 +7,4 @@
 #Hopefully it works now
 #yay it works
 #re-testing again after starting my vm
+#I just changed the external IP
